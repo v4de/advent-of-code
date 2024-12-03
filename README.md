@@ -8,6 +8,8 @@ This repo is my attempt at solving the advent of code puzzle of 2024 to earn all
 
 [Day 2](./2/README.md)
 
+[Day 3](./2/README.md)
+
 ## How to contribute
 
 Fork this repo and test using the following:
