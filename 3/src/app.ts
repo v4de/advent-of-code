@@ -15,7 +15,7 @@ let sum: number | undefined = 0;
 const start = async () => {
   for await (const line of readLines) {
     const matches = line.match(instructionRe);
-    const products = matches?.map(instruction => {
+    const products = matches?.map((instruction:string) => {
       const csv = instruction.match(mulRe);
       let multiply: number = 0;
       if (csv){
@@ -25,7 +25,7 @@ const start = async () => {
       };
       return multiply;
     });
-    sum = products?.reduce((sum, current) => sum + current);
+    sum = products?.reduce((acc:number, v:number) => acc + v);
   }
 
   // async must return a value
