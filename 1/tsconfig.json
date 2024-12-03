@@ -9,7 +9,7 @@
     "rootDir": "./src",
     "outDir": "./out",
     "lib": [
-      "es2023"
+      "ES2023"
     ],
     "declaration": true,
     "strict": true,

@@ -42,8 +42,7 @@ To find the total distance between the left list and the right list, add up the 
 
 Your actual left and right lists contain many location IDs. **What is the total distance between your lists?**
 
-## testing
+>! Your puzzle answer was 1506483.
+>! The first half of this puzzle is complete! It provides one gold star: *
 
-1. git clone repo
-2. using a terminal browse to this directory
-3. `npm install` to install dependencies, you should see a node_modules folder created with dependencies
+## --- Part Two ---
