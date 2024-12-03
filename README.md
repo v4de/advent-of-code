@@ -4,11 +4,11 @@
 
 This repo is my attempt at solving the advent of code puzzle of 2024 to earn all the stars using typescript :)
 
-[Day 1](./1/README.md)
+[Day 1](./1/)
 
-[Day 2](./2/README.md)
+[Day 2](./2/)
 
-[Day 3](./2/README.md)
+[Day 3](./2/)
 
 ## How to contribute
 
