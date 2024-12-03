@@ -1,4 +1,8 @@
 {
+  "ts-node": {
+    "transpileOnly": true,
+    "files": true,
+  },
   "compilerOptions": {
     "target": "ES2023",
     "module": "commonjs",
